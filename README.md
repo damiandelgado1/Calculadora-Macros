@@ -13,3 +13,8 @@ el correcto funcionamiento de:
 
 De esta forma me aseguro de que la Entrada de Datos y Resultados que
 se entregan de los Calculos son reales y funciona todo perfectamente
+
+Adicionalmente: Creo un conjunto de listado de Alimentos con mayor
+cantidad de Macronutrientes y se muestra al Usuario los Alimentos recomendados
+
+Nota: Esto es una Idea plasmada que mejorare mas adelante

@@ -134,3 +134,15 @@ frecuencia_semanal = int(input("¿Cuantos Dias a la Semana entrena?: "))
 mi_tmb = calcular_tmb(sexo_usuario, peso_usuario, altura_usuario, edad_usuario)
 mi_tdee = calcular_tdee(frecuencia_semanal, mi_tmb, sexo_usuario)
 mi_ingesta = calcular_ingesta(mi_tdee, etapa_entrenamiento, peso_usuario)
+
+#Lista con Alimentos segun Macros y gramos de dichos Macros en cada alimento
+Proteinas = [("Pescado", 19.2), ("Huevo", 13), ("Pollo", 32.8), ("Costilla", 20), ("Leche", 3.3), ("Lomo de Cerdo", 22.2), ("Lata de Atun", 25.7)]
+
+Carbohidratos = [("Pan", 58.6), ("Arroz", 28), ("Fideos", 30.9), ("Leche", 4.8), ("Avena", 66.3)]
+
+Grasas = [("Palta", 15), ("Almendras", 50), ("Aceite", 100), ("Mantequilla", 81)]
+
+print("Alimentos recomendados a Consumir segun Macros")
+print("Proteinas", Proteinas)
+print("Carbohidratos", Carbohidratos)
+print("Grasas", Grasas)
