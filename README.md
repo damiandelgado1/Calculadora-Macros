@@ -1,13 +1,15 @@
 # Calculadora-Macros
 Repository for My Macrocalculator with files of logic and function
 
-# 1er Proceso de Desarrollo
+# 1ra Parte: Traspaso de Pseudocodigo a Python
 
-En esta 1ra etapa plasmo el diseño base de mi software de calculadora de macros
+En esta parte, una vez teniendo el funcionamiento base de mi Proyecto
+en Pseudocodigo, traspaso el codigo de Pseudocodigo a Lenguaje de
+Programacion para Prototipado (En este caso elegi Python) y comprobar
+el correcto funcionamiento de:
 
-Esta base tiene como objetivo recolectar datos de una persona que son:
+- Entrada de Datos
+- Calculos cientificos y nutricionales
 
--Nombre, Edad y Sexo
--Condicion Fisica
--Fase de Entrenamiento
-
+De esta forma me aseguro de que la Entrada de Datos y Resultados que
+se entregan de los Calculos son reales y funciona todo perfectamente
