@@ -21,3 +21,10 @@ y sus Objetivos de Entrenamiento
 Nota: Aqui cometi un error el cual distribui la recopilacion de datos en Funciones
 y los Calculos Cientificos mas complejos los coloque en el Algoritmo principal, lo
 que causo que los calculos se mostraran pero no entregaban ningun valor
+
+#3ra Parte: Proceso de Refactorizacion del Proyecto
+
+En esta 3ra parte me encargo de reestructurar el codigo de mi proyecto sin afectar
+su funcionamiento princiapl, distribuyendo los diferentes calculos y formulas
+cientificas en funciones y la recopilacion de datos en el Algoritmo principal, ademas
+de ajustar los valores y formulas correspondientes a una materia no tecnica
