@@ -3,6 +3,8 @@
 Proyecto en desarrollo que tiene como Objetivo calcular Ingesta Calorica de Macronutrientes que un
 Usuario necesita segun su Objetivo y Frecuencia de Entrenamiento
 
+# 1er Etapa de Desarrollo
+
 Tecnologias:
 - Pseudocodigo: Para diseñar funcionamiento Base del Proyecto y Estructurar recopilacion de Datos y
 Calculos
@@ -14,6 +16,7 @@ Estructura del proyecto:
 - Developer: Archivos con funcionalidades Principales del Proyecto
 - Design: Contiene el Diseño de la Logica y Funcionamiento del Proyecto
 
+<<<<<<< HEAD
 Estado del Proyecto
 - Proyecto en Desarrollo
 - Logica de Negocio Principal implementada
@@ -27,3 +30,7 @@ El prototipo(Con logica concluida) actual permite:
 Grasas)
 
 Nota: Este proyecto forma parte de Mi Proceso de Aprendizaje y seguira Evolucionando
+
+-Nombre, Edad y Sexo
+-Condicion Fisica
+-Fase de Entrenamiento
