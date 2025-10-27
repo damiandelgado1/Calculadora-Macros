@@ -16,7 +16,6 @@ Estructura del proyecto:
 - Developer: Archivos con funcionalidades Principales del Proyecto
 - Design: Contiene el Diseño de la Logica y Funcionamiento del Proyecto
 
-<<<<<<< HEAD
 Estado del Proyecto
 - Proyecto en Desarrollo
 - Logica de Negocio Principal implementada
