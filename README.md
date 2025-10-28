@@ -38,6 +38,10 @@ Funcionamiento)
 Refactorizacion para reestructurar el codigo de mi proyecto en Pseudocodigo y ser
 traducido a Python para validar funcionamiento
 
+---------------------------------------------------------------------------------
+
+#Estructura y Herramientas utilizadas
+
 Tecnologias utilizadas:
 - Pseudocodigo: Diseño Logico y Estructura del Flujo
 - Python: Traduccion, Prototipado y Validacion de Resultados
