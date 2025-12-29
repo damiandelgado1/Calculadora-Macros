@@ -2,9 +2,9 @@
 def calcular_tmb(sexo, peso, altura, edad):
 
     if sexo == "Hombre":
-        tmb = (10 * peso) + (6.25 * altura) - (5 * edad) - 5
+        tmb = (10 * peso) + (6.25 * altura) - (5 * edad) + 5
     else:
-        tmb = (10 * peso) + (6.25 * altura) - (5 * edad) - 5
+        tmb = (10 * peso) + (6.25 * altura) - (5 * edad) - 161
     
     print(f"El TMB del/la {sexo} es de {tmb:.1f}")
 
